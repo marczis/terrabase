@@ -1,4 +1,0 @@
-[submodule "modules/tf_vpc"]
-	path = modules/tf_vpc
-	url = git@github.com:marczis/tf_vpc.git
-	branch = master
